@@ -1,4 +1,4 @@
-Medicose aims to enhance the experience of the patient who's on a medical tour to India.
+Medicos aims to enhance the experience of the patient who's on a medical tour to India.
 It helps the patient in,
 1. Choosing the right hospital based on the preference of city, preferred month of travel, treatment , popularity and other criteria.
 
